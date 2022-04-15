@@ -1,0 +1,17 @@
+body{
+    background-color:gray;
+}
+.firstp{
+    color: lightskyblue;
+    font-weight: 900;
+}
+#firstD{
+    color: aquamarine;
+    font-style: oblique; 
+}
+span{
+    color: red;
+}
+img{
+    width: 50%;
+}
